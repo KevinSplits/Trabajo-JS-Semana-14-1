@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Trabajo-JS-Semana-14-1/static/css/main.f855e6bc.css",
+    "main.js": "/Trabajo-JS-Semana-14-1/static/js/main.70dca5bd.js",
+    "static/js/453.37f5700e.chunk.js": "/Trabajo-JS-Semana-14-1/static/js/453.37f5700e.chunk.js",
+    "index.html": "/Trabajo-JS-Semana-14-1/index.html",
+    "main.f855e6bc.css.map": "/Trabajo-JS-Semana-14-1/static/css/main.f855e6bc.css.map",
+    "main.70dca5bd.js.map": "/Trabajo-JS-Semana-14-1/static/js/main.70dca5bd.js.map",
+    "453.37f5700e.chunk.js.map": "/Trabajo-JS-Semana-14-1/static/js/453.37f5700e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.70dca5bd.js"
+  ]
+}
